@@ -1,0 +1,38 @@
+E:\MY PROJECT\QuizWiz\QuizWiz\bin\Debug\QuizWiz.exe.config
+E:\MY PROJECT\QuizWiz\QuizWiz\bin\Debug\QuizWiz.exe
+E:\MY PROJECT\QuizWiz\QuizWiz\bin\Debug\QuizWiz.pdb
+E:\MY PROJECT\QuizWiz\QuizWiz\obj\Debug\QuizWiz.csprojAssemblyReference.cache
+E:\MY PROJECT\QuizWiz\QuizWiz\obj\Debug\QuizWiz.Form1.resources
+E:\MY PROJECT\QuizWiz\QuizWiz\obj\Debug\QuizWiz.Login.resources
+E:\MY PROJECT\QuizWiz\QuizWiz\obj\Debug\QuizWiz.Properties.Resources.resources
+E:\MY PROJECT\QuizWiz\QuizWiz\obj\Debug\QuizWiz.csproj.GenerateResource.cache
+E:\MY PROJECT\QuizWiz\QuizWiz\obj\Debug\QuizWiz.csproj.CoreCompileInputs.cache
+E:\MY PROJECT\QuizWiz\QuizWiz\obj\Debug\QuizWiz.exe
+E:\MY PROJECT\QuizWiz\QuizWiz\obj\Debug\QuizWiz.pdb
+E:\MY PROJECT\QuizWiz\QuizWiz\obj\Debug\QuizWiz.Registration.resources
+E:\MY PROJECT BACKUP\QuizWiz\QuizWiz\bin\Debug\QuizWiz.exe.config
+E:\MY PROJECT BACKUP\QuizWiz\QuizWiz\bin\Debug\QuizWiz.exe
+E:\MY PROJECT BACKUP\QuizWiz\QuizWiz\bin\Debug\QuizWiz.pdb
+E:\MY PROJECT BACKUP\QuizWiz\QuizWiz\obj\Debug\QuizWiz.csproj.AssemblyReference.cache
+E:\MY PROJECT BACKUP\QuizWiz\QuizWiz\obj\Debug\QuizWiz.csproj.SuggestedBindingRedirects.cache
+E:\MY PROJECT BACKUP\QuizWiz\QuizWiz\obj\Debug\QuizWiz.Form1.resources
+E:\MY PROJECT BACKUP\QuizWiz\QuizWiz\obj\Debug\QuizWiz.Login.resources
+E:\MY PROJECT BACKUP\QuizWiz\QuizWiz\obj\Debug\QuizWiz.Properties.Resources.resources
+E:\MY PROJECT BACKUP\QuizWiz\QuizWiz\obj\Debug\QuizWiz.Registration.resources
+E:\MY PROJECT BACKUP\QuizWiz\QuizWiz\obj\Debug\QuizWiz.csproj.GenerateResource.cache
+E:\MY PROJECT BACKUP\QuizWiz\QuizWiz\obj\Debug\QuizWiz.csproj.CoreCompileInputs.cache
+E:\MY PROJECT BACKUP\QuizWiz\QuizWiz\obj\Debug\QuizWiz.exe
+E:\MY PROJECT BACKUP\QuizWiz\QuizWiz\obj\Debug\QuizWiz.pdb
+E:\MY PROJECT\QuizWiz\QuizWiz\obj\Debug\QuizWiz.Thankyou.resources
+E:\MY PROJECT\QuizWiz\QuizWiz\bin\Debug\Quiz_Authentication.accdb
+E:\MY PROJECT\QuizWiz\QuizWiz\obj\Debug\QuizWiz.About.resources
+E:\MY PROJECT\QuizWiz\QuizWiz\obj\Debug\QuizWiz.contact.resources
+E:\MY PROJECT\QuizWiz\QuizWiz\obj\Debug\QuizWiz.Instruction.resources
+E:\MY PROJECT\QuizWiz\QuizWiz\obj\Debug\QuizWiz.Menu.resources
+E:\MY PROJECT\QuizWiz\QuizWiz\obj\Debug\QuizWiz.Play.resources
+E:\MY PROJECT\QuizWiz\QuizWiz\obj\Debug\QuizWiz.Level.resources
+E:\MY PROJECT\QuizWiz\QuizWiz\bin\Debug\Level-1.accdb
+E:\MY PROJECT\QuizWiz\QuizWiz\obj\Debug\QuizWiz.Rough.resources
+E:\MY PROJECT\QuizWiz\QuizWiz\bin\Debug\Guna.UI2.dll
+E:\MY PROJECT\QuizWiz\QuizWiz\obj\Debug\QuizWiz.csproj.CopyComplete
+E:\MY PROJECT\QuizWiz\QuizWiz\obj\Debug\QuizWiz.result.resources
