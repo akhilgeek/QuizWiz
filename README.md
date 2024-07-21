@@ -27,7 +27,7 @@ To install and run QuizWiz, follow these steps:
 
 2. **Clone the repository**:
     ```bash
-    git clone https://github.com/username/quizwiz.git
+    git clone https://github.com/username/QuizWiz.git
     ```
 
 3. **Navigate to the project directory**:
