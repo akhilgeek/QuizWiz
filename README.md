@@ -1,4 +1,4 @@
-# QuizWiz
+
 # QuizWiz
 
 ## Description
@@ -32,7 +32,7 @@ To install and run QuizWiz, follow these steps:
 
 3. **Navigate to the project directory**:
     ```bash
-    cd quizwiz
+    cd QuizWiz
     ```
 
 4. **Open the project in Visual Studio**: Open the `.sln` file in Visual Studio.
@@ -88,9 +88,6 @@ To contribute to this project, please follow these guidelines:
 2. **Create a Branch**: Create a new branch for your feature or bug fix.
 3. **Make Changes**: Implement your changes in the new branch.
 4. **Submit a Pull Request**: Submit a pull request with a detailed description of your changes.
-
-## License
-The license for this project is not specified.
 
 ## Authors and Acknowledgments
 - **Akhil Kumar** - Sole developer of the project.
